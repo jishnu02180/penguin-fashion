@@ -1,0 +1,44 @@
+.header-img-size img{
+   width: 100%;
+}
+
+header{
+    background-color: tomato;
+}
+
+.card-panda{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.panda-slide .carousel-item{
+    background-color: #feeae9;
+    border-radius: 1em;
+
+}
+
+.categories-color{
+    margin: 20px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.categories-color img{
+    height: 100%;
+}
+
+.footer-shadow{
+    border-radius: 10px;
+    background-color: rgb(207, 88, 88);
+}
+
+.btn-width{
+    width: 25%;
+}
